@@ -1,0 +1,10 @@
+.mueble{
+    display: block;
+    width: 300px;
+}
+
+.mueble img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
